@@ -1,6 +1,6 @@
 ---
 title: A Page
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: This is a subtitle
 image: https://journalists.org/wp-content/uploads/2018/05/Dan-Pacheco.jpg
 blurb:
   heading: This is a heading.
