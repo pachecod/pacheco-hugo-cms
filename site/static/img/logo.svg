@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="465" height="113" viewBox="0 0 465 113">
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="140" viewBox="0 0 1800 140">
   <defs>
     <style>
       .cls-1 {
-        font-size: 37.5px;
+        font-size: 150px;
         fill: red;
         font-family: "Myriad Pro";
         font-weight: 700;
       }
     </style>
   </defs>
-  <text id="Emerging_Media_Platforms" data-name="Emerging Media Platforms" class="cls-1" x="12.859" y="73.096">Emerging Media Platforms</text>
+  <text id="Emerging_Media_Platforms" data-name="Emerging Media Platforms" class="cls-1" x="5.859" y="108.096">Emerging Media Platforms</text>
 </svg>
